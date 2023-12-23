@@ -1,8 +1,20 @@
-# React + Vite
+# MernStackEc
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Test project
 
-Currently, two official plugins are available:
+## Quick Start
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can get started with Basic restserver structure in minutes by running the following commands:
+
+```bash
+yarn
+
+yarn dev
+```
+## Credentials
+usr01@gmail.com Asdf#1234
+usr02@gmail.com Asdf#1234
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
